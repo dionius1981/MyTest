@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0e77629-a87d-48a0-95e7-806355a9c5ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Odoo_Academy/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Odoo_Academy/models/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0e77629-a87d-48a0-95e7-806355a9c5ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
