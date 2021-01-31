@@ -8,6 +8,7 @@
 
     'depends': ['base'],
     'data': [
+        'views/account_menuitem.xml'
         # data
 
         # views

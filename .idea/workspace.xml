@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e77629-a87d-48a0-95e7-806355a9c5ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Odoo_Academy/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Odoo_Academy/__manifest__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Odoo_Academy/models/course.py" beforeDir="false" afterPath="$PROJECT_DIR$/Odoo_Academy/models/course.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="XML Properties File" />
       </list>
     </option>
   </component>
