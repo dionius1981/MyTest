@@ -1,8 +1,13 @@
 
 
-from odoo import models
+from odoo import models, fields
 
 
 class Course(models.Model):
     _name = 'academy.course'
     _description = 'Course Info'
+
+    name = fields.Char(string='Title', required=True)
+    disctiption = fields.Text(string='Description')
+    level = fields.Selection([('beginner' , 'Beginner'), ('intermadiate', 'Intermadiate'), ('advance','Advance')])
+    active = fields.Boolian(string='Is active', default=True)
