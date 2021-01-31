@@ -8,6 +8,6 @@ class Course(models.Model):
     _description = 'Course Info'
 
     name = fields.Char(string='Title', required=True)
-    disctiption = fields.Text(string='Description')
+    discription = fields.Text(string='Description')
     level = fields.Selection([('beginner' , 'Beginner'), ('intermadiate', 'Intermadiate'), ('advance','Advance')])
-    active = fields.Boolian(string='Is active', default=True)
+    active = fields.Boolian(string='Active', default=True)
