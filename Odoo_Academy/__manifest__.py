@@ -8,7 +8,7 @@
 
     'depends': ['base'],
     'data': [
-        'views/account_menuitem.xml'
+        'views/menuitems.xml'
         # data
 
         # views
